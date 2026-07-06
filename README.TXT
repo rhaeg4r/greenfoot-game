@@ -1,4 +1,5 @@
 # greenfoot-game
+
 # Racing Game: Interesting and Challenging Features
 
 ## Project Overview
@@ -21,7 +22,7 @@ This project is a simple car-avoidance game built in Greenfoot. The player contr
 ### 2. Flying Feature of the Car
 
 #### Features:
-- The car has a flying ability that allows it to avoid collisions during tight situations. 
+- The car has a flying ability that allows it to avoid collisions during tight situations.
 - This feature provides an escape option and helps players maintain their score when used strategically.
 
 #### Challenges:
@@ -39,7 +40,8 @@ This project is a simple car-avoidance game built in Greenfoot. The player contr
 #### Challenges:
 - Continuously updating the score on the screen while ensuring smooth gameplay was challenging.
 - Managing the game state (whether the game is running or over) was important to ensure the final score and message display correctly when the game ends.
-- 
+-
+
 ![Greenfoot_CarGame2024-11-0522-47-58-ezgif com-optimize](https://github.com/user-attachments/assets/1bb39e13-15f9-4518-a7ee-a6304a25f64e)
 
 ## Real-Time Explanation of Gameplay
